@@ -1,8 +1,8 @@
 {
-    "name": "user/hello-world",
-    "description": "this is a new composer.",
+    "name": "haylo/hello-world",
+    "description": "this is a new composer test",
     "type": "library",
-    "license": "456789",
+    "license": "456",
     "minimum-stability": "dev",
     "require": {}
 }
