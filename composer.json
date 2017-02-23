@@ -1,0 +1,8 @@
+{
+    "name": "user/hello-world",
+    "description": "this is a new composer.",
+    "type": "library",
+    "license": "456789",
+    "minimum-stability": "dev",
+    "require": {}
+}
